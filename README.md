@@ -1,6 +1,6 @@
 # **Node JS Rest-API**
 
-<img src="https://i.postimg.cc/KjqrWcc2/zekais-api.png" width="500">
+<img src="https://telegra.ph/file/526bd8b6aead54ffabf3a.jpg" width="500">
 
 Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
 
